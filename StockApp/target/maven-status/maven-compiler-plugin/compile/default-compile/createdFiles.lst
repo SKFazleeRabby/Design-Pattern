@@ -1,0 +1,5 @@
+com\mycompany\stockapp\Observer.class
+com\mycompany\stockapp\StockServer.class
+com\mycompany\stockapp\Subject.class
+com\mycompany\stockapp\StockApp.class
+com\mycompany\stockapp\Main.class
