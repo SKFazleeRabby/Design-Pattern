@@ -1,0 +1,5 @@
+com\mycompany\auctionhouse\AuctionHouseManager.class
+com\mycompany\auctionhouse\Observer.class
+com\mycompany\auctionhouse\Auctioner.class
+com\mycompany\auctionhouse\Bidder.class
+com\mycompany\auctionhouse\Subject.class
