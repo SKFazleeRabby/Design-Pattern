@@ -1,0 +1,7 @@
+com\mycompany\videoplayer\MP4Decoder.class
+com\mycompany\videoplayer\VideoPlayer.class
+com\mycompany\videoplayer\Decoder.class
+com\mycompany\videoplayer\MKVDecoder.class
+com\mycompany\videoplayer\PlayerDemo.class
+com\mycompany\videoplayer\MediaPlayer.class
+com\mycompany\videoplayer\MediaAdapter.class
